@@ -8,3 +8,5 @@ last 1 safari version
 last 3 versions
 not dead
 not op_mini all
+not ie <= 11
+
